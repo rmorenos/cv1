@@ -1,0 +1,124 @@
+.body-class {
+    align: center;
+    font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    margin-left: 80px;
+   
+}
+
+.header-class {
+    background-color: #1d3e4d;
+    margin: 0px 80px 0px 80px;
+    color: #ffffff;
+}
+
+.title-class {
+       display: inline-block;
+    text-align: left;
+    margin: 10px 10px 10px 300px;
+}
+
+.title1-class {
+    blackground-color: #003300;
+    display: inline-block;
+    position: static;
+    width: 100px;
+    margin: 10px 10px 10px 10px;
+    float: left
+}
+
+.section1-class {
+    margin: 0px 0px 10px 0px;
+}
+
+.igm1-class {
+        margin: 10px 10px 10px 30px;
+        float: left;
+}
+
+.igm2-class {
+
+    width: 300px;
+    height: 350px;
+}
+
+.nombre-class {
+    font-size: 50px;
+    margin: 0;
+    font-style: oblique;
+}
+.subnombre-class {
+    font-size: 20px;
+    margin: 0;
+    font-style: oblique;
+}
+
+.personal-class {
+    display: inline-block;
+}
+
+.contacto-class {
+    display: inline-block;
+    margin: 10px 0px 10px 50px;
+}
+
+.social-class {
+    display: inline-block; 
+    margin: 10px 0px 10px 10px
+}
+
+.trabajo-class {
+    display: inline-block; 
+    margin: 10px 0px 10px 50px
+}
+
+.estudio-class {
+    display: inline-block; 
+    margin: 10px 0px 10px 50px;
+}
+
+.estudio2-class {
+    text-align: left;
+}
+
+.estudios1-class {
+    font-size:22px;
+    margin: 0px 0px 10px 0px
+}
+
+.estudios2-class {
+    font-size: 10px;
+    margin: 0px 0px 10px 0px
+}
+
+.conocimiento-class {
+    font-size: 22px;
+    margin: 10px 0px 0px 0px;
+}
+
+.inblock-class {
+    margin: 10px 50px 20px 200px;
+    display:inline-block;   
+
+}
+
+.inblock1-class {
+    margin: 0px 0px 100px 200px;
+    display: inline-block;
+}
+
+.inblock2-class {
+    margin: 0px 0px 100px 100px;
+    display: inline-block;
+}
+
+.margin-class {
+    margin: 0px 0px 100px 0px;
+}
+
+.margin1-class {
+    margin: 0px 100px 0px 0px;
+}
+
+
+
